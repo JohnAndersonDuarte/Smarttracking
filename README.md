@@ -11,6 +11,16 @@ O acesso ao banco de dados gerado é EXCLUSIVAMENTE realizado pelas Autoridades 
 # Site
 https://smarttourbrasil.com.br/smart-tracking
 
-![Tela1](https://github.com/JohnAndersonDuarte/TraceGP/blob/main/img/Tela1.png)
+![Capa](https://github.com/JohnAndersonDuarte/Smarttracking/blob/main/imgs/Capa.png)
 
+# Telas do sistema
+![Tela1](https://github.com/JohnAndersonDuarte/Smarttracking/blob/main/imgs/Tela1.png)
+![Tela2](https://github.com/JohnAndersonDuarte/Smarttracking/blob/main/imgs/Tela2.png)
+![Tela3](https://github.com/JohnAndersonDuarte/Smarttracking/blob/main/imgs/Tela3.png)
+
+# BackEnd
+- Nodejs
+
+# FrontEnd
+- Angular.js
 
